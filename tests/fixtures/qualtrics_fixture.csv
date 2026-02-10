@@ -1,0 +1,7 @@
+StartDate,EndDate,RecordedDate,Finished,Progress,Duration (in seconds),Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8
+Start Date,End Date,Recorded Date,Finished,Progress,Duration,Program level (Undergraduate/Graduate),How likely to pursue CPA license?,Were you aware of the alternative pathway to CPA licensure?,Impact on desire to pursue CPA license,Impact on desire to pursue a graduate degree,How likely would you have been to pursue a graduate degree if you had known about the alternative pathway?,Have you already taken this survey before?,Other comments (please specify)
+ImportId,ImportId,ImportId,ImportId,ImportId,ImportId,ImportId,ImportId,ImportId,ImportId,ImportId,ImportId,ImportId,ImportId
+2025-12-01,2025-12-01,2025-12-01,1,100,300,Undergraduate,Very likely,Yes,Increased,No change,Very likely,No,Great survey
+2025-12-02,2025-12-02,2025-12-02,0,80,420,Graduate,Unlikely,No,Decreased,Decreased,Unlikely,Yes,No comment
+2025-12-03,2025-12-03,2025-12-03,1,90,180,Undergraduate,Neutral,Yes,No change,Increased,Likely,No,Other: ‚Äôtest
+2025-12-04,2025-12-04,2025-12-04,1,70,600,Graduate,Very unlikely,,No change,No change,,No,
